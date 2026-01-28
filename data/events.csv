@@ -1,0 +1,13 @@
+event_name,date,country,actual,forecast,previous
+CPI,2025-11-13,US,,,
+CPI,2025-12-11,US,,,
+NFP,2025-11-01,US,,,
+NFP,2025-12-06,US,,,
+PMI,2025-11-01,US,,,
+PMI,2025-12-02,US,,,
+FOMC,2025-11-07,US,,,
+FOMC,2025-12-18,US,,,
+CPI,2026-01-15,US,,,
+NFP,2026-01-10,US,,,
+PMI,2026-01-02,US,,,
+FOMC,2026-01-29,US,,,
