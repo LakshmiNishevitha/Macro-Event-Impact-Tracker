@@ -72,7 +72,7 @@ macro-impact-tracker/
 │ └── event_impacts.parquet
 ├── reports/ # Exported HTML reports
 ├── src/ # Data pipeline & analytics
-├── assets/ # Screenshots (optional)
+├── assets/
 ├── requirements.txt
 └── README.md
 ```
